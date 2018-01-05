@@ -11,3 +11,5 @@ tests/data/*.png
 # ignore doc products
 doc/*.md5
 doc/*.ly
+
+adocs
